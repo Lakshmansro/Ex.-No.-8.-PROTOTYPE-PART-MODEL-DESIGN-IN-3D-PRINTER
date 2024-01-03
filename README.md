@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![Screenshot 2023-12-27 134549](https://github.com/Lakshmansro/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139961914/f99a5b55-d4fb-434f-b580-559a50b2c131)
+![Screenshot 2024-01-03 092419](https://github.com/Lakshmansro/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139961914/c7fcbfdf-d026-42d1-8ac1-657bff8a87b8)
+
 
 
 ### Name: Sri lakshman
